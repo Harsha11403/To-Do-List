@@ -28,7 +28,7 @@
     margin-top: 15px;
 }
 
-.add-todo-button{
+/*.add-todo-button{
     background-color:  #031c74 ;
     color: white;
     font-size: 18px;
@@ -40,7 +40,7 @@
     padding-left: 20px;
     padding-right: 20px;
     border-width: 0px;
-}
+}*/
 .checkbox-input{
     width:20px;
     height: 20px;
@@ -95,7 +95,7 @@
 .checked{
     text-decoration: line-through;
 }
-.save-todo-button{
+.button{
     background-color:  #031c74 ;
     color: white;
     font-size: 18px;
