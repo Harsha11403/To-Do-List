@@ -95,3 +95,16 @@
 .checked{
     text-decoration: line-through;
 }
+.save-todo-button{
+    background-color:  #031c74 ;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 0px;
+}
